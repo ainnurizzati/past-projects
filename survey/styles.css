@@ -1,0 +1,61 @@
+body {
+    background-color: #1b1b325F;
+    font-family: Poppins, sans-serif;
+    color: white;
+}
+
+header {
+    color: white;
+    font-family: "Roboto";
+}
+
+#description {
+    font-style: italic;
+    font-weight: 300;
+}
+
+header, .form-container {
+    width: 60%;
+    margin: 2em auto;
+    max-width: 700px;
+}
+
+.header {
+    background-color: white;
+}
+
+input{
+    width: 100%;
+    border-radius: 5px;
+    margin: 0.5em 0;
+    padding: 0.5em 0;
+}
+
+fieldset {
+    border: 0;
+}
+
+.form-container {
+    background-color: #1b1b32;
+    padding: 1em;
+}
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+
+input[type="submit"] {
+background-color: #37af65;
+border: 0;
+color: white;
+margin: 0.5em 0;
+padding: 0.5em;
+font-size: 15px;
+}
+/* .sec-1, .sec-2, .sec-3 {
+
+    width: 100%;
+    display: block;
+} */
